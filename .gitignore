@@ -1,41 +1,16 @@
-# Prerequisites
-*.d
+# Arduino build files
+/build/
+/.bin/
+/*.elf
+*.hex
+*.bin
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# VSCode settings
+.vscode/
 
-# Precompiled Headers
-*.gch
-*.pch
+# macOS system files
+.DS_Store
 
-# Linker files
-*.ilk
-
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# Other temp files
+*.log
+*.tmp
