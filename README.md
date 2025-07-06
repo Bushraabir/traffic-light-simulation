@@ -33,7 +33,7 @@ Simulates a 5-color traffic light system using an ESP32 and basic LEDs.
 
 ## 📁 Files Included
 
-- `LED_Sequencer.ino` — Main traffic light sketch
+- `LED_Sequencer.ino` — Code
 - `.gitignore`, `LICENSE`, `README.md`
 
 ---
